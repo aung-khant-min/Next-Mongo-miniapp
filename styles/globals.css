@@ -14,3 +14,20 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+h1{
+  text-align: center;
+}
+.addTask{
+  width: 100%;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.addTask>div{
+  margin: auto 20px;
+}
+.complete{
+  text-decoration: line-through;
+}
